@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://costa-rica-here-and-now-7f4d7b00.zappy5.app</loc>
+    <loc>https://example.com</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://costa-rica-here-and-now-7f4d7b00.zappy5.app/traveler-profiles</loc>
+    <loc>https://example.com/traveler-profiles</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://costa-rica-here-and-now-7f4d7b00.zappy5.app/itineraries</loc>
+    <loc>https://example.com/itineraries</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://costa-rica-here-and-now-7f4d7b00.zappy5.app/regions-routes</loc>
+    <loc>https://example.com/regions-routes</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://costa-rica-here-and-now-7f4d7b00.zappy5.app/contact</loc>
+    <loc>https://example.com/contact</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://costa-rica-here-and-now-7f4d7b00.zappy5.app/privacy</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://costa-rica-here-and-now-7f4d7b00.zappy5.app/terms</loc>
+    <loc>https://example.com/privacy</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://costa-rica-here-and-now-7f4d7b00.zappy5.app/accessibility</loc>
+    <loc>https://example.com/terms</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://example.com/accessibility</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
