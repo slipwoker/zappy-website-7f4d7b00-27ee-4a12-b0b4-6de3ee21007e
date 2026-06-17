@@ -7,37 +7,37 @@
 ## Pages
 
 ### Home
-https://example.com
+https://costa-rica-here-and-now.zappy5.app
 Unleash your wild side with Costa Rica adventure itineraries built for solo explorers, couples, and families. Discover 5, 7, and 10-day trips from San José or Liberia. Start your journey now!
 
 ### Traveler Profiles
-https://example.com/traveler-profiles
+https://costa-rica-here-and-now.zappy5.app/traveler-profiles
 Whether you roam alone, with a partner, or the whole crew, match your travel style to the perfect Costa Rica experience. Dive into curated profiles and plan boldly today.
 
 ### Itineraries
-https://example.com/itineraries
+https://costa-rica-here-and-now.zappy5.app/itineraries
 Browse dynamic 5, 7, and 10-day Costa Rica itineraries for every traveler. From the Caribbean coast to volcanic peaks, grab your ideal route and book the adventure of a lifetime.
 
 ### Regions & Routes
-https://example.com/regions-routes
+https://costa-rica-here-and-now.zappy5.app/regions-routes
 Go beyond the usual with routes spanning Costa Rica&#39;s full geographic diversity, including the hidden Caribbean coast. Map your adventure and travel deeper than ever before.
 
 ### Contact
-https://example.com/contact
+https://costa-rica-here-and-now.zappy5.app/contact
 Ready to turn daydreams into a Costa Rica adventure? Contact our team to customize your journey, ask questions, or get local tips. Your epic escape starts with a single message.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://costa-rica-here-and-now.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://costa-rica-here-and-now.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://costa-rica-here-and-now.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://costa-rica-here-and-now.zappy5.app/contact
+- Endpoint: https://costa-rica-here-and-now.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Travel & Tourism
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://costa-rica-here-and-now.zappy5.app/sitemap.xml
+- Robots: https://costa-rica-here-and-now.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://costa-rica-here-and-now.zappy5.app/llms-full.txt
